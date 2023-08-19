@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: red;
+    width: 750px;
+    height: 750px;
+}
+
+.drawing-div {
+    background-color: white;
+}
